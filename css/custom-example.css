@@ -1,0 +1,160 @@
+/*
+Custom CSS
+*/
+
+
+/*
+.parallax {
+    margin-top: -300px;
+    background-image:url(../img/spark.gif);
+*/
+    /* Set a specific height */
+/*    min-height: 500px; */
+   
+    /* Create the parallax scrolling effect */
+/*
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 850px;}
+*/
+    
+
+.maincontain {
+    margin-top: -100px;
+    background-color:white;
+}
+
+
+nav{
+  background-color: yellow;
+}
+
+
+
+h2 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+h1 {
+    
+    font-size: 35px;
+}
+body{
+  background-color: #202635;
+  padding-top: 100px;
+  color: aliceblue;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+.sparky {
+    margin-top: -120px;
+    height: 1000px;
+}
+
+nav{
+  background-color:white;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  color: aliceblue;
+}
+
+.long {
+    
+    height: 500px;
+}
+
+.motionprint {
+    
+    margin-top:100px;
+}
+
+.minuscontain {
+    
+    margin-top: 
+}
+
+.row1 {
+    
+    background-color:white
+}
+
+
+.row2 {
+    
+    margin-top: 200px;
+}
+.contacts {
+    
+    margin-top: 150px;
+}
+
+.contactsgmail {
+    
+    
+    margin-top: 50px;
+    
+    
+}
+/* 
+# Responsive breakpoints
+# https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints
+Extra small   <576px  	.col-
+Small         ≥576px    .col-sm-
+Medium        ≥768px    .col-md-
+Large         ≥992px    .col-lg-
+Extra large   ≥1200px   .col-xl-
+*/
+
+/* Apply these rules if the screen width is LESS than 576px */
+
+@media(max-width:576px){
+  div[class^="col"]{
+    
+    
+    
+  }
+}
+
+/* Apply these rules if the screen width is GREATER than 576px */
+
+@media (min-width: 576px) {
+  div[class^="col"]{
+}
+    
+
+}
+
+/* Apply these rules if the screen width is GREATER than 768px */
+
+@media (min-width: 768px) {
+  div[class^="col"]{
+   
+    
+  }
+}
+
+/* Apply these rules if the screen width is GREATER than 992px */
+
+@media (min-width: 992px) {
+  div[class^="col"]{
+    
+    
+   
+  }
+}
+
+/* Apply these rules if the screen width is GREATER than 1200px */
+
+@media (min-width: 1200px) {
+  div[class^="col"]{
+    
+    
+
+      
+  }
+}
