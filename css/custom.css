@@ -51,6 +51,7 @@ Custom CSS
 */
 
 
+  
 
 nav{
   background-color:transparent;
@@ -87,11 +88,12 @@ mix-blend-mode: difference;
 
 
 
-
-
 /*other*/
 
-
+.projectcap {
+    
+    margin-top: 30px;
+}
 
 
 body {
@@ -352,6 +354,7 @@ p {
 }
 
 
+
 /*catalogue */
 
 
@@ -407,10 +410,19 @@ p {
 
 .detailshotstitlewhite {
     color:white;
+
     
    
 }
 
+
+.explainervideo {
+    color:white;
+    margin-top: 50px;
+
+    
+   
+}
 
 
 .motyfbumper {
@@ -636,6 +648,8 @@ filter: blur(1px);
     position: absolute;
    
 }
+
+
 
 .aboutnav {
     
