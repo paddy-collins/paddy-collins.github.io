@@ -51,6 +51,12 @@ Custom CSS
 */
 
 
+
+
+
+
+
+
   
 
 nav{
@@ -79,6 +85,17 @@ nav{
 .blend {
 mix-blend-mode: difference;
     
+}
+
+.experiments {
+    
+    margin-left: 50px;
+    margin-top: -8px;
+}
+
+.experimentstext {
+    
+    padding-left: 100px;
 }
 
 .nextpadding {
@@ -637,11 +654,17 @@ filter: blur(1px);
 }
 
 .rownavvy {
-
+    z-index: 100;
     margin-top: -80px;
+    margin-bottom: 100px;
 
 }
 
+.rownavvy2 {
+    z-index: 100;
+    margin-top: 500px;
+
+}
 
 .ontop {
     z-index: 100;
@@ -920,6 +943,9 @@ margin-bottom:-0px;
 }
     
 
+     
+    
+    
 
     .seework {
         margin-top: -40px
