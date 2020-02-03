@@ -331,6 +331,11 @@ p {
 }
  
 
+.fymmobile{
+    
+    margin-top: -150px;
+    margin-bottom: 150px;
+}
 
 .rowfooterindex {
     
@@ -396,6 +401,12 @@ p {
     margin-top: -200px;
     margin-bottom: 50px;
 }
+
+.cataloguegifmobile1 {
+    
+    margin-top: 0px;
+    margin-bottom: 200px;
+}
 }
 .briefcatalogue {
     
@@ -420,6 +431,14 @@ p {
 
 .detailshots {
     color:black;
+    
+   
+}
+
+
+.detailshots2 {
+    color:black;
+    margin-top: 25px;
     
    
 }
@@ -1133,13 +1152,26 @@ filter: blur(0px);
    
 }
  
+   
     
+    .catalogedesss2 {
+        
+        margin-top: -250px;
+        }
    
   
     .aboutpagemarg {
         
         margin-top: 0px;
     }
+    
+    
+    .operagifmobile {
+        
+        margin-top: -100px;
+        margin-bottom: 150px;
+    }   
+    
     
     
 .movingpost {
@@ -1154,6 +1186,8 @@ filter: blur(0px);
 }
     
   }
+
+
 
 
 
